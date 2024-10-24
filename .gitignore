@@ -1,0 +1,27 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Jest / Coverage reports
+coverage/
+.nyc_output/
+
+# Build artifacts
+dist/
+build/
+
+# IDE/OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# WebdriverIO configuration artifacts
+allure-report/
+webdriver-stats.json
